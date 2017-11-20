@@ -21,7 +21,7 @@
 
 .navbar {
     min-height: 38px;
-    background-color: #000;
+    background-color: #f55e55;
 }
 .navbar a.brand { font-size: 18px; }
  .navbar a.brand:hover {
