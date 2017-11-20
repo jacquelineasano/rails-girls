@@ -20,12 +20,12 @@
  th { border-bottom: 1px solid #DDD; }
 
 .navbar {
-  min-height: 38px;
-  background-color: #f55e55 !important;
+    min-height: 38px;
+    background-color: #f55e55;
 }
 .navbar a.brand { font-size: 18px; }
-.navbar a.brand:hover {
- color: #fff;
- background-color: transparent;
- text-decoration: none;
-}
+ .navbar a.brand:hover {
+      color: #fff;
+     background-color: transparent;
+     text-decoration: none;
+ }
